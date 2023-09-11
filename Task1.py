@@ -1,0 +1,2 @@
+variable="Yellow"
+print(variable)
